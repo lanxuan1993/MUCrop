@@ -6,6 +6,7 @@ uCrop的android.support版本
 修改裁剪的覆盖层为身份证的图层
 
 使用方法:
+
 allprojects {
    repositories {
       jcenter()
